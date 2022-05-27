@@ -1,0 +1,56 @@
+.condition__img-left {
+  float: left;
+  margin-right: 30px;
+}
+
+.condition__img-right {
+  float: right;
+}
+
+.condition__indent {
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.condition__paragraph {
+  max-width: 480px;
+  margin-right: 40px;
+  display: inline-block;
+}
+
+.condition__paragraph > p:last-child {
+  margin-bottom: 0;
+}
+
+.condition__img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+.condition__image {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.condition__figure {
+  margin: 0 auto;
+  border: solid #000000;
+  border-width: 1px;
+  margin-bottom: 30px;
+}
+
+.condition__figcaption {
+  padding: 15px 30px 15px 30px;
+  color: #5e5e5e;
+}
+
+.condition-two > p:last-child {
+  margin-bottom: 0;
+}
+
+.condition-three {
+  margin-bottom: 25px;
+}
