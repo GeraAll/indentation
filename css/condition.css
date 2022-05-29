@@ -1,32 +1,29 @@
-.condition__img-left {
+.condition-one__img-left {
   float: left;
   margin-right: 30px;
 }
 
-.condition__img-right {
+.condition-one__img-right {
   float: right;
 }
 
-.condition__indent {
+.condition-one__indent-left {
   margin-bottom: 30px;
   display: inline-block;
 }
 
-.condition__paragraph {
+.condition-one__indent-right {
+  display: inline-block;
+}
+
+.condition-text {
   max-width: 480px;
   margin-right: 40px;
   display: inline-block;
 }
 
-.condition__paragraph > p:last-child {
+.condition-paragraph:last-child {
   margin-bottom: 0;
-}
-
-.condition__img {
-  display: block;
-  margin: 0 auto;
-  padding-top: 30px;
-  margin-bottom: 30px;
 }
 
 .condition__image {
@@ -35,22 +32,22 @@
   margin-bottom: 30px;
 }
 
-.condition__figure {
+.condition__image_padding {
+  padding-top: 30px;
+}
+
+.condition__image_block {
+  margin-bottom: 0;
+}
+
+.condition-two__figure {
   margin: 0 auto;
   border: solid #000000;
   border-width: 1px;
   margin-bottom: 30px;
 }
 
-.condition__figcaption {
+.condition-two__figcaption {
   padding: 15px 30px 15px 30px;
   color: #5e5e5e;
-}
-
-.condition-two > p:last-child {
-  margin-bottom: 0;
-}
-
-.condition-three {
-  margin-bottom: 25px;
 }

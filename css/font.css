@@ -2,22 +2,22 @@
   font-family: "Roboto";
   font-weight: 400;
   font-display: swap;
-  src: local("Roboto"), url("/fonts/roboto-regular.woff2") format("woff2"),
-    url("/fonts/roboto-regular.woff") format("woff");
+  src: local("Roboto"), url("../fonts/roboto-regular.woff2") format("woff2"),
+    url("../fonts/roboto-regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 700;
   font-display: swap;
-  src: local("Roboto"), url("/fonts/roboto-700.woff2") format("woff2"),
-    url("/fonts/roboto-700.woff") format("woff");
+  src: local("Roboto"), url("../fonts/roboto-700.woff2") format("woff2"),
+    url("../fonts/roboto-700.woff") format("woff");
 }
 
 @font-face {
   font-family: "Roboto";
   font-weight: 900;
   font-display: swap;
-  src: local("Roboto"), url("/fonts/roboto-900.woff2") format("woff2"),
-    url("/fonts/roboto-900.woff") format("woff");
+  src: local("Roboto"), url("../fonts/roboto-900.woff2") format("woff2"),
+    url("../fonts/roboto-900.woff") format("woff");
 }
